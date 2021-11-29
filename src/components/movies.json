@@ -1,0 +1,32 @@
+[{
+    "id": 1,
+    "image": "https://c.ndtvimg.com/2021-05/k8rl2os8_akshay-kumar_625x300_02_May_21.jpg",
+    "title": "Dont Breath",
+    "actor": "abcd"
+},
+{
+    "id": 2,
+    "image": "https://cdn.gulte.com/wp-content/uploads/2021/08/Sher.jpg",
+    "title": "shershah",
+    "actor": "kiara"
+},
+{
+    "id": 3,
+    "image": "https://image.songsuno.com/movie-images/original/movie/sultan/sultan-poster-anushka-sharma-salman-khan.jpg",
+    "title": "sultan",
+    "actor": "salman khan"
+},
+{
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/35/Thappad_film_poster.jpg",
+    "title": "thappad",
+    "actor": "tapsee pannu"
+},
+{
+    "id": 5,
+    "image": "https://c.ndtvimg.com/2021-05/k8rl2os8_akshay-kumar_625x300_02_May_21.jpg",
+    "title": "bell",
+    "actor": "vanni"
+}
+
+]
